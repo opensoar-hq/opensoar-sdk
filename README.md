@@ -1,8 +1,21 @@
-# OpenSOAR SDK
+<p align="center">
+  <img src="https://raw.githubusercontent.com/opensoar-hq/opensoar-www/main/public/logo.svg" width="64" height="62" alt="OpenSOAR">
+</p>
+
+<h1 align="center">OpenSOAR SDK</h1>
+
+<p align="center"><strong>Build OpenSOAR integrations and playbooks in real Python.</strong></p>
+
+<p align="center">
+  <a href="https://pypi.org/project/opensoar-sdk/"><img src="https://img.shields.io/pypi/v/opensoar-sdk?color=3775A9&logo=pypi&logoColor=white" alt="PyPI"></a>
+  <a href="https://github.com/opensoar-hq/opensoar-core"><img src="https://img.shields.io/badge/platform-opensoar--core-3fb950" alt="opensoar-core"></a>
+</p>
+
+<p align="center"><sub>OpenSOAR is a <a href="https://0sec.ai">0sec Labs</a> product.</sub></p>
+
+---
 
 Python SDK for building integrations and playbooks for the [OpenSOAR](https://github.com/opensoar-hq/opensoar-core) SOAR platform.
-
-**OpenSOAR is a PwnKit Labs product.**
 
 ## Install
 
